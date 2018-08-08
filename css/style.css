@@ -1,0 +1,95 @@
+#litle{
+	height: 400px;
+}
+nav{
+	background: #259b7f;
+}
+.divider{
+	background:  #ed8917;
+}
+.circle{
+	border:10px solid #fff;
+}
+img{
+	width: 100%;
+	overflow: hidden;
+}
+.butn{
+	background: #fff;
+	color: #259b7f;
+	padding:10px;
+	border-radius: 5px;
+	width: 130px;
+}
+
+.butn:hover{
+	background: #259b7f;
+	color: #fff;
+}
+
+.footer{
+	background: #259b7f;
+	margin: 0;
+}
+.footer p{
+	margin: 0;
+	padding: 10px;
+	color: #fff;
+}
+
+.hed{
+	color: #fff;
+}
+
+h5 a{
+	color: #fff;
+}
+.phone span{
+	color: #fff;
+}
+.hd{
+	color: #ed8917;
+	font-size: 22px;
+}
+./*gg{
+	margin-top: 60px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.gg div{
+	margin-bottom: 20px;
+}*/
+#contact h3{
+	margin-bottom: 50px;
+}
+.project{
+
+	padding: 0 !important;
+	border-radius: 5px;
+	padding-top: 20px;
+	margin-bottom: 50px;
+	height: 205px;
+}
+
+.project:hover .overlay{
+	opacity: 0.8;
+}
+
+.overlay{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .5s ease;
+	background-color: #000;
+}
+.text{
+	color: white;
+	margin-top: 50px;
+}
+.light {
+	font-size: 20px;
+}
